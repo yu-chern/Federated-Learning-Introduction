@@ -46,8 +46,8 @@ This is a introduction repository that helps you hands on Federated Learning.
   * 3). A and B compute their own gradients and loss, encrypt, mask and send to C 
   * 4). C decrypts the gradients and loss, and then aggregates them
   * 5). C sends the aggregated results back to A and B; A and B update their own model
-  
-  ![Architecture for a vertical federated learning system](https://www.researchgate.net/profile/Tianjian-Chen-3/publication/331086697/figure/fig3/AS:726048543084544@1550114870226/Architecture-for-a-vertical-federated-learning-system.ppm)
+  ![image](https://user-images.githubusercontent.com/64321559/169692661-2adc04da-7676-457a-8531-97ff5747f218.png)
+
   
   https://www.researchgate.net/figure/Architecture-for-a-vertical-federated-learning-system_fig3_331086697
 
